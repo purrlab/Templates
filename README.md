@@ -1,2 +1,2 @@
 # Templates
-Templates of LaTex, PowerPoint, etc.
+PowerPoint templates for presentations, contains two files with and without the PURRlab logo.
